@@ -1,0 +1,9 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="100.69.174.83" id="b7fa6ab5-f765-460f-9cdc-160ebc61c24d" port="22" nameFormat="DESCRIPTIVE" username="jeffwilde" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="s.pf-jdegoes-functional-data-modeling-jj7v7qq93q99q.master" id="153aafb6-1bc5-4722-8416-c13a4a39189e" port="22" nameFormat="DESCRIPTIVE" username="codespace" useOpenSSHConfig="true" />
+      <sshConfig authType="OPEN_SSH" host="jeffwilde-pfjdegoesfunc-e3fnz4fswwp.ssh.ws-us47.gitpod.io" id="eba28145-95a2-48bc-b2d9-d0ff8897757e" port="22" nameFormat="DESCRIPTIVE" username="jeffwilde-pfjdegoesfunc-e3fnz4fswwp#bdXSObYcWHAqvqjNitFOtsyZhIoByett" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
